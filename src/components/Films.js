@@ -1,5 +1,5 @@
 const Movies = (props) => {
-    return <h2>{props.movies}</h2>;
+    return <img src={imageSrc} />;
 };
 
 export default Movies;
